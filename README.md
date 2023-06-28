@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jean-marc18&label=Profile%20views&color=0e75b6&style=flat" alt="jean-marc18" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://jean-marc18.github.io/MyWebsite/](https://jean-marc18.github.io/MyWebsite/)
+- 👨‍💻 All of my projects are available at [https://jeanmarcportfolio.netlify.app](https://jeanmarcportfolio.netlify.app)
 
 - 📫 How to reach me **koffijm18@gmail.com**
 
