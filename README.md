@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jeanmarckoffi.online/](https://jeanmarckoffi.online/)
 
-- 📫 How to reach me **koffijm18@gmail.com**
+- 📫 How to reach me **jeanmarc.dev.18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
