@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jean-marc18&label=Profile%20views&color=0e75b6&style=flat" alt="jean-marc18" /> </p>
 
-/*- 👨‍💻 All of my projects are available at [https://jeanmarckoffi.online/](https://jeanmarckoffi.online/)*/
+- 👨‍💻 All of my projects are available at [https://jmk-portfolio.vercel.app/](https://jmk-portfolio.vercel.app/)
 
 - 📫 How to reach me **jeanmarc.dev.18@gmail.com**
 
