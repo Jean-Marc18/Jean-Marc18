@@ -9,7 +9,7 @@
 I'm a frontend developer with 2+ years of experience building production web apps. I work mostly with the React / Next.js ecosystem in TypeScript, and I care about clean architecture, accessibility, and code that scales.
 
 - 🏗️ **Clean / hexagonal architecture** and **feature-component** patterns
-- 🌍 Open to **remote opportunities** — France 🇫🇷 & Canada 🇨🇦
+- 🌍 Open to **remote opportunities**
 - 📫 **jeanmarc.dev.18@gmail.com**
 
 ---
