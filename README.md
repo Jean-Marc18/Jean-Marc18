@@ -51,4 +51,3 @@ I'm a frontend developer with 2+ years of experience building production web app
 - 🌐 **Portfolio** : [jmk-portfolio.vercel.app](https://jmk-portfolio.vercel.app)
 - 💼 **LinkedIn** : [linkedin.com/in/jean-marc-koffi](https://www.linkedin.com/in/jean-marc-koffi/)
 - 📧 **Email** : jeanmarc.dev.18@gmail.com
-- 💬 **WhatsApp** : [+225 07 68 91 00 92](https://wa.me/2250768910092)
