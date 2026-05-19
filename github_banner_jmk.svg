@@ -1,6 +1,14 @@
 <svg width="100%" viewBox="0 0 680 280" role="img" xmlns="http://www.w3.org/2000/svg">
-  <title>GitHub profile banner — Jean-Marc Koffi, Frontend Developer</title>
-  <desc>Dark banner with monogram /·K, name, title, stack badges and availability tag</desc>
+  <title>Jean-Marc Koffi — Frontend Developer</title>
+  <desc>GitHub profile banner dark with bold typography</desc>
+
+  <defs>
+    <style>
+      .bold { font-family: Manrope, 'Helvetica Neue', Impact, sans-serif; font-weight: 900; }
+      .mono { font-family: Manrope, 'Fira Code', 'Courier New', monospace; }
+      .sans { font-family: Manrope, Helvetica, sans-serif; }
+    </style>
+  </defs>
 
   <rect width="680" height="280" fill="#0D0D0D" rx="12"/>
   <rect x="0" y="0" width="3" height="280" fill="#E8E4DC" rx="2"/>
@@ -9,48 +17,42 @@
   <circle cx="94" cy="88" r="7" fill="#E8E4DC"/>
   <text x="102" y="104" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#E8E4DC" letter-spacing="-2">K</text>
 
-  <text x="52" y="136" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#888880" letter-spacing="3">JEAN-MARC KOFFI</text>
-  <text x="52" y="170" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#E8E4DC" letter-spacing="-0.5">Frontend Developer</text>
-  <text x="52" y="196" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#555550">React · Next.js · TypeScript · Clean Architecture</text>
+  <text x="52" y="136" class="mono" font-size="13" fill="#888880" letter-spacing="3">JEAN-MARC KOFFI</text>
+  <text x="52" y="172" class="bold" font-size="24" fill="#E8E4DC" letter-spacing="-0.5">Frontend Developer</text>
+  <text x="52" y="196" class="sans" font-size="13" fill="#555550">React · Next.js · TypeScript · Clean Architecture</text>
 
   <rect x="52" y="218" width="130" height="26" rx="13" fill="#1A1A1A" stroke="#333330" stroke-width="0.5"/>
   <circle cx="70" cy="231" r="4" fill="#3DB57A"/>
-  <text x="82" y="236" font-family="Arial, sans-serif" font-size="11" fill="#888880">Available · Remote</text>
-
-  <rect x="194" y="218" width="50" height="26" rx="13" fill="#1A1A1A" stroke="#333330" stroke-width="0.5"/>
-  <text x="219" y="236" font-family="Arial, sans-serif" font-size="11" fill="#555550" text-anchor="middle">🇫🇷</text>
-
-  <rect x="254" y="218" width="50" height="26" rx="13" fill="#1A1A1A" stroke="#333330" stroke-width="0.5"/>
-  <text x="279" y="236" font-family="Arial, sans-serif" font-size="11" fill="#555550" text-anchor="middle">🇨🇦</text>
+  <text x="82" y="236" class="sans" font-size="11" fill="#888880">Available · Remote</text>
 
   <line x1="460" y1="60" x2="460" y2="220" stroke="#1E1E1C" stroke-width="0.5"/>
 
-  <text x="490" y="90" font-family="Arial, sans-serif" font-size="11" fill="#444440" letter-spacing="2">STACK</text>
+  <text x="490" y="90" class="mono" font-size="11" fill="#444440" letter-spacing="2">STACK</text>
 
   <rect x="490" y="104" width="72" height="22" rx="4" fill="#1A1A1A" stroke="#2A2A28" stroke-width="0.5"/>
-  <text x="526" y="119" font-family="Arial, sans-serif" font-size="11" fill="#7EB8F0" text-anchor="middle">Next.js</text>
+  <text x="526" y="119" class="sans" font-size="11" fill="#7EB8F0" text-anchor="middle">Next.js</text>
 
   <rect x="572" y="104" width="72" height="22" rx="4" fill="#1A1A1A" stroke="#2A2A28" stroke-width="0.5"/>
-  <text x="608" y="119" font-family="Arial, sans-serif" font-size="11" fill="#5B9CF0" text-anchor="middle">TypeScript</text>
+  <text x="608" y="119" class="sans" font-size="11" fill="#5B9CF0" text-anchor="middle">TypeScript</text>
 
   <rect x="490" y="134" width="72" height="22" rx="4" fill="#1A1A1A" stroke="#2A2A28" stroke-width="0.5"/>
-  <text x="526" y="149" font-family="Arial, sans-serif" font-size="11" fill="#61DAFB" text-anchor="middle">React</text>
+  <text x="526" y="149" class="sans" font-size="11" fill="#61DAFB" text-anchor="middle">React</text>
 
   <rect x="572" y="134" width="72" height="22" rx="4" fill="#1A1A1A" stroke="#2A2A28" stroke-width="0.5"/>
-  <text x="608" y="149" font-family="Arial, sans-serif" font-size="11" fill="#06B6D4" text-anchor="middle">Tailwind</text>
+  <text x="608" y="149" class="sans" font-size="11" fill="#06B6D4" text-anchor="middle">Tailwind</text>
 
   <rect x="490" y="164" width="72" height="22" rx="4" fill="#1A1A1A" stroke="#2A2A28" stroke-width="0.5"/>
-  <text x="526" y="179" font-family="Arial, sans-serif" font-size="11" fill="#88CE02" text-anchor="middle">GSAP</text>
+  <text x="526" y="179" class="sans" font-size="11" fill="#88CE02" text-anchor="middle">GSAP</text>
 
   <rect x="572" y="164" width="72" height="22" rx="4" fill="#1A1A1A" stroke="#2A2A28" stroke-width="0.5"/>
-  <text x="608" y="179" font-family="Arial, sans-serif" font-size="11" fill="#888880" text-anchor="middle">Sanity</text>
+  <text x="608" y="179" class="sans" font-size="11" fill="#888880" text-anchor="middle">Sanity</text>
 
   <rect x="490" y="194" width="154" height="22" rx="4" fill="#1A1A1A" stroke="#2A2A28" stroke-width="0.5"/>
-  <text x="567" y="209" font-family="Arial, sans-serif" font-size="11" fill="#555550" text-anchor="middle">Clean Architecture · Scrum</text>
+  <text x="567" y="209" class="sans" font-size="11" fill="#555550" text-anchor="middle">Clean Architecture · Scrum</text>
 
-  <text x="52" y="262" font-family="Arial, sans-serif" font-size="11" fill="#333330">jmk-portfolio.vercel.app</text>
-  <text x="240" y="262" font-family="Arial, sans-serif" font-size="11" fill="#2A2A28">·</text>
-  <text x="255" y="262" font-family="Arial, sans-serif" font-size="11" fill="#333330">linkedin.com/in/jean-marc-koffi</text>
-  <text x="470" y="262" font-family="Arial, sans-serif" font-size="11" fill="#2A2A28">·</text>
-  <text x="485" y="262" font-family="Arial, sans-serif" font-size="11" fill="#333330">github.com/Jean-Marc18</text>
+  <text x="52" y="262" class="mono" font-size="11" fill="#333330">jmk-portfolio.vercel.app</text>
+  <text x="240" y="262" class="sans" font-size="11" fill="#2A2A28">·</text>
+  <text x="255" y="262" class="mono" font-size="11" fill="#333330">linkedin.com/in/jean-marc-koffi</text>
+  <text x="470" y="262" class="sans" font-size="11" fill="#2A2A28">·</text>
+  <text x="485" y="262" class="mono" font-size="11" fill="#333330">github.com/Jean-Marc18</text>
 </svg>
