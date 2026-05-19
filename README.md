@@ -1,3 +1,5 @@
+![Jean-Marc Koffi — Frontend Developer](./github_banner_jmk.svg)
+
 # Hi, I'm Jean-Marc 👋
 
 **Frontend Developer** based in Abidjan, Côte d'Ivoire 🇨🇮
