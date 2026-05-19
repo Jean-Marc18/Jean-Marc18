@@ -1,23 +1,52 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
-<h1 align="center">Hi 👋, I'm JEVN-MVRC</h1>
-<h3 align="center">A passionate frontend developer from Côte D'Ivoire</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# Hi, I'm Jean-Marc 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jean-marc18&label=Profile%20views&color=0e75b6&style=flat" alt="jean-marc18" /> </p>
+**Frontend Developer** based in Abidjan, Côte d'Ivoire 🇨🇮
 
-- 👨‍💻 All of my projects are available at [https://jmk-portfolio.vercel.app/](https://jmk-portfolio.vercel.app/)
+---
 
-- 📫 How to reach me **jeanmarc.dev.18@gmail.com**
+### About me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/knjm1810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="knjm1810" height="30" width="40" /></a>
-<a href="https://twitter.com/knjm_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="knjm_18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/n. jean-marc koffi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n. jean-marc koffi" height="30" width="40" /></a>
-<a href="https://instagram.com/jevn_mvrc18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jevn_mvrc18" height="30" width="40" /></a>
-<a href="https://dribbble.com/jevn-mvrc18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jevn-mvrc18" height="30" width="40" /></a>
-</p>
+I'm a frontend developer with 2+ years of experience building production web apps. I work mostly with the React / Next.js ecosystem in TypeScript, and I care about clean architecture, accessibility, and code that scales.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></p>
+- 🏗️ **Clean / hexagonal architecture** and **feature-component** patterns
+- 🌍 Open to **remote opportunities** — France 🇫🇷 & Canada 🇨🇦
+- 📫 **jeanmarc.dev.18@gmail.com**
 
+---
+
+### 🛠️ Tech stack
+
+**Languages & Frameworks**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+
+**Styling & UI**
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+
+**State & Data**
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+
+**Tools & Methodology**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat&logo=sanity&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-Agile-009FDA?style=flat)
+
+---
+
+### 📫 Let's connect
+
+- 🌐 **Portfolio** : [jmk-portfolio.vercel.app](https://jmk-portfolio.vercel.app)
+- 💼 **LinkedIn** : [linkedin.com/in/jean-marc-koffi](https://www.linkedin.com/in/jean-marc-koffi/)
+- 📧 **Email** : jeanmarc.dev.18@gmail.com
+- 💬 **WhatsApp** : [+225 07 68 91 00 92](https://wa.me/2250768910092)
